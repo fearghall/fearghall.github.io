@@ -228,7 +228,7 @@ $(document).ready(function () {
 				//url : "http://new.carraroehouse.com/RESTfulJK/users/post",
 				//url : "http://microserver-pc:8080/RESTfulJK/users/post",
 				//url : "https://webservice.carraroehouse.com:8080/RESTfulJK/users/post",
-				url : "http://webservice.carraroehouse.com:8080/RESTfulJK/users/post",
+				url : "http://webservice.carraroehouse.com:8080/RESTfulJK/users/post/",
 				type: "POST",
 				data:formToJSON(),
 				contentType: 'application/json',
